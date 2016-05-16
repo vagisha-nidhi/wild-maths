@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=clss
+comment0.target=boolean\ numbersee(java.lang.Class)
+comment0.text=\r\n\ Act\ -\ do\ whatever\ the\ numbers\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment1.params=
+comment1.target=int\ counter()
+comment2.params=
+comment2.target=boolean\ atWorldEdge()
+comment3.params=
+comment3.target=void\ act()
+numComments=4
